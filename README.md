@@ -114,4 +114,14 @@ Objectives -> Questions -> Data -> Method
 7. Memoribility
     * easy to remember how the interface works
 
-
+## Decouvrabilité
+1. Affordance
+    * e.g applecation mobile, people can tap, drag and etc.
+2. Signifiers
+    * e.g "Buy now" on the button
+3. Mapping
+    * e.g the position of switches matches with the position of lights
+    * volume bar should like this "**-**==================O==================== **+**"
+4. Feedback
+5. Contraintes
+6. Moddèle conceptuels
