@@ -1,4 +1,5 @@
 # Final
+__VIM + Markdown practice__ and my final revision for **IFT2905**
 
 ## Performance Humain
 1. Processeur perceptuel
