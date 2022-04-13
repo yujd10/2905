@@ -12,13 +12,13 @@
 * Au lieu d'une longue séquence, faire plus de petites **itération** de **conception** **prototypage** et **evaluation**.
 * Une moyen de gérer le risque inhérent dans la conception de UI
 ## Attitudes envers les designs
-* Design centré sur la technologie
+1. Design centré sur la technologie
  * Les progrès sont fait par les avance de technologie
  * Le but est de créer les nouveaux systèmes
-* Design centré sur un designer
+2. Design centré sur un designer
  * Les progrès sont fait par l'**intuition** des designer
  * Imagine ce que l'utilisateur faire
-* Design centré sur les utilisateurs
+3. Design centré sur les utilisateurs
  * Les utilisateur font partie de processus de design
  * Les etude **empiriques** (about users' experiences i think) commencent tôt dans les processus de design
 ## Type des evaluations
