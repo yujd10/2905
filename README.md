@@ -163,3 +163,78 @@ Objectives -> Questions -> Data -> Method
 > * problemes d'apprentisage
 > * acceptance
 
+## 10 Heuristiques d'évaluation
+1. Visibility of system status
+    * User should be informed what is going on
+    * e.g. To know where the cursor is 
+    * e.g. What has been selected
+2. Match between **System** and **Real world**
+    * To use a terminologie
+    * Follow real world conventions
+    * e.g. windows desktop has simulated a desktop in real world 
+3. User Control and **Freedom**
+    * People will have freedom to
+>   * Undo
+>   * Annuler
+>   * Interruption
+>   * Exit
+>   * reset all settings (by default)
+4. Consistency and standards(**don't understand**)
+    * Always use the same words, commands for same actions in those equivalent situations
+    * To be coherent with other users interfaces
+5. Error prevention
+    * Try to make errors impossible
+    * e.g highlighting typing errors in WORD
+6. Recognition rather than recall
+    * Make it more recognizable fot users
+    * repose sur la visibilité des objets
+    * e.g. Show how a font looks like instead of just showing the font name 
+7. Flexibility and efficiency of use
+    * fast and efficient
+    * e.g. accelerateurs de clavier et de mouse
+    * double click vs. rightclick menu
+8. Aesthetic(美学) and minimalististic(极简主义) design
+    * Make it beautiful and simple !
+9. Help users with errors
+    * error message in clear languages
+    * pricisely indicate the problem
+    * constructive suggestions about how to solve it 
+10. Help and Documentation
+    * Le design doit rendre l'aide _la plus part du temp_ **inutile** !
+    * Remember that users don't wanna read the manual
+    * Good research, contextual help
+    * Some users want to become an expert
+
+**_FINI_**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
