@@ -153,3 +153,13 @@ Objectives -> Questions -> Data -> Method
     * Commited after have reflexion
     * Connected to sequences of ations(Specification)
     
+## Test d'utilisabilité
+### aka. études d'utilisabilité
+
+* objective : To determinate whether **direct** users can do their tasks by using interfaces
+* we will mesure:
+> * performance
+> * errors
+> * problemes d'apprentisage
+> * acceptance
+
