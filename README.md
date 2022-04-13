@@ -121,7 +121,35 @@ Objectives -> Questions -> Data -> Method
     * e.g "Buy now" on the button
 3. Mapping
     * e.g the position of switches matches with the position of lights
-    * volume bar should like this "**-**==================O==================== **+**"
+    * volume bar should like this "**-** ==================O==================== **+**"
 4. Feedback
+    * no need for example 
 5. Contraintes
+    * The usb-A can not be pluged in in both directions
 6. Moddèle conceptuels
+    * e.g. instructions or a visible mecanism
+
+## Conceptuel vs Mental
+1. Mendal
+    * Vers les users
+    * Users imagine the function of system
+    * Can help or obsruct interaction of users
+2. Conceptuel
+    * Is what the designer has created
+    * What users can do
+    * Which concepts users will need to interact
+    * How are users going to interact with the system
+
+## Processus
+* task + prototype de design = a senario
+
+## Error types
+1. slips and lapses(Bévue et lapsus)
+    * slip is a failure of execution, lapse is a failure of memory
+    * commited during a machanical behaivour (without reflexion)
+2. Méprises(mistakes)
+    * Failure of momory or planification
+    * Used a wrong procedure for l'objective
+    * Commited after have reflexion
+    * Connected to sequences of ations(Specification)
+    
