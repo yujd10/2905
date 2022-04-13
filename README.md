@@ -1,4 +1,4 @@
-#🔥💥🧨Final☠️ 💀😣
+# 🔥💥🧨Final☠️ 💀😣
 * Obejcetive:__VIM + Markdown practice__ and my final revision for **IFT2905**
 * Languages: En/Fr/Ch
 ## Performance Humain
