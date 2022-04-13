@@ -1,6 +1,6 @@
 # Final
-__VIM + Markdown practice__ and my final revision for **IFT2905**
-
+* Obejcetive:__VIM + Markdown practice__ and my final revision for **IFT2905**
+* Languages: En/Fr/Ch
 ## Performance Humain
 1. Processeur perceptuel
     * capteurs et tampon
@@ -78,5 +78,40 @@ User will think out loud:
 * expensive to prepare (hard to prepare some good questions)
 * might received low-quality answers
 * hard to do follow-ups
+
+## How to do evaluations
+Objectives -> Questions -> Data -> Method
+ **Plus iterations**
+
+## Good examples of tasks
+1. Describing what users do instead of HOW 
+2. They are in details
+3. Describing a complete task
+4. Tell who the users are
+5. Together they cover a large range of users and tasks
+6. They should be evaluated !
+
+## Types of exigences
+1. Foncitonal
+2. de **Donnés**
+3. d'**environnement**
+4. Caractéristiques d'utilisateurs
+5. Les but d'utilisabilité/experiences of users
+
+### Utilisabilité
+1. Efficacité
+    * pouvoir atteindre le resultat prévu
+2. Efficience 
+    * pouvoir atteindre le resultat plus facilement
+3. Satisfaction
+    * interaction satisfaisant
+4. Simplicité d'apprentisage
+    * easy to learn
+5. Visibilité
+    * easy to see and understand system states
+6. Errors
+    * to mesure the quantity and impact of users' errors  
+7. Memoribility
+    * easy to remember how the interface works
 
 
