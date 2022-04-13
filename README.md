@@ -69,6 +69,13 @@ User will think out loud:
 6. contextuelle(users are working on it)
 
 # Sondages
-###Cons
+### pros
+* not expensive to realise
+* ne nécessite pas la présence des users
+* Most part of the results can be qualified
+### cons
+* expensive to prepare (hard to prepare some good questions)
+* might received low-quality answers
+* hard to do follow-ups
 
 
