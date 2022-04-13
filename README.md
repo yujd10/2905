@@ -1,5 +1,5 @@
-# 🔥💥🧨Final☠️ 💀😣
-* Obejcetive:__VIM + Markdown practice__ and my final revision for **IFT2905**
+# 🔥💥🧨Révision Final 2905☠️ 💀😣
+* **WHY???** : __VIM + Markdown practice__ and my final revision for **IFT2905**
 * Languages: En/Fr/Ch
 ## Performance Humain
 1. Processeur perceptuel
